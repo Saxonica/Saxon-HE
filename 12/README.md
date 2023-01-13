@@ -7,7 +7,7 @@
 
 The Saxon-HE 12 releases are available in the [Java](Java) folder.
 
-## Release notes for Saxon 12, dated 2023-01-13
+## Release notes for Saxon 12, dated 2023-01-12
 
 Saxon 12.0 is first release on the Saxon 12 branch.
 Saxon 12.0 is released in three language versions: SaxonJ
