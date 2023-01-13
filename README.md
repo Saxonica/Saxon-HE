@@ -18,11 +18,13 @@ version 2.0.
 ## Current releases
 
 This repository contains all releases for the current actively maintained
-versions of Saxon-HE: [10](10) and [11](11).
+versions of Saxon-HE: [10](10), [11](11), and [12](12).
 
-The latest release of Saxon-HE is [11.4](11).
+The latest production release of Saxon-HE is [11.4](11).
 
 Saxon 11 is currently considered the most stable and reliable release.
+
+The latest release of Saxon-HE is [12.0](12).
 
 ## Older releases
 
