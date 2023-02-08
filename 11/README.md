@@ -31,11 +31,11 @@ relative to 11.1.
 SaxonJ, SaxonCS, and SaxonC; with this release, we are now recommending
 Saxon 11 as the most stable and reliable release for production use.
 * **Saxon 11.5** (released 2023-02-08) provides a maintenance release for
-SaxonJ, SaxonCS, and SaxonC; with this release, we are now recommending
-Saxon 11 as the most stable and reliable release for production use.
+SaxonJ, SaxonCS, and SaxonC. SaxonCS 11.5 is built for .NET 6.
 
-SaxonCS 11.5 requires .NET Core 6+; applications running on .NET
-Framework 4.x should stick with the older product Saxon/.NET 10.x.
+SaxonCS 11.5 requires .NET Core 6+, while SaxonCS 11.4 and earlier require .NET
+Core 5+. Applications running on .NET Framework 4.x should stick with the older
+product Saxon/.NET 10.x.
 
 The documentation at https://www.saxonica.com/documentation11/ includes a
 detailed list of changes for each major release, and also includes
@@ -48,7 +48,7 @@ For a full list of bugs cleared in Saxon 11.5, please go to
 https://saxonica.plan.io/projects/saxon/issues and filter the list of bugs for those labelled as
 "Fixed in Maintenance Release 11.5"; or use
 [this
-link](https://saxonica.plan.io/projects/saxon/issues?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=cf_6&op%5Bcf_6%5D=%3D&v%5Bcf_6%5D%5B%5D=85&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=&t%5B%5D=).
+link](https://saxonica.plan.io/projects/saxon/issues?utf8=✓&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=cf_6&op%5Bcf_6%5D=%3D&v%5Bcf_6%5D%5B%5D=88&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=&t%5B%5D=).
 
 For further details of these bugs, or for details of bugs cleared in
 earlier maintenance releases, or to register new bugs, please visit
