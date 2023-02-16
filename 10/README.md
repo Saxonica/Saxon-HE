@@ -8,7 +8,7 @@
 The Saxon-HE 10 releases are available in the [Java](Java) and
 [Dotnet](Dotnet) folders.
 
-## Release notes for Saxon 10, dated 2022-03-15
+## Release notes for Saxon 10, dated 2022-03-16
 
 Saxon 10.9 is the latest maintenance release on the Saxon 10 branch.
 Saxon 10.9 is released in three editions (EE, PE, and HE), for the
