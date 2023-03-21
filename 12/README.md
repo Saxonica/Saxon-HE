@@ -7,10 +7,10 @@
 
 The Saxon-HE 12 releases are available in the [Java](Java) folder.
 
-## Release notes for Saxon 12, dated 2023-01-12
+## Release notes for Saxon 12, dated 2023-03-21
 
-Saxon 12.0 is first release on the Saxon 12 branch.
-Saxon 12.0 is released in three language versions: SaxonJ
+Saxon 12.1 is first maintenance release on the Saxon 12 branch.
+Saxon 12.1 is released in three language versions: SaxonJ
 (Java), SaxonCS (.NET 6+), and SaxonC (C/C++, PHP, and Python). For
 SaxonJ and SaxonC, there are three editions: (EE, PE, and HE); for
 SaxonCS, only the enterprise edition (EE) is available.
@@ -29,10 +29,10 @@ installation instructions.
 Links to all download files can be found at
 https://www.saxonica.com/download/download_page.xml.
 
-For a full list of bugs cleared in Saxon 12.0, please go to
+For a full list of bugs cleared in Saxon 12.1, please go to
 https://saxonica.plan.io/projects/saxon/issues and filter the list of bugs for those labelled as
-"Fixed in Release 12.0"; or use
-[this link](https://saxonica.plan.io/projects/saxon/issues?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=cf_6&op%5Bcf_6%5D=%3D&v%5Bcf_6%5D%5B%5D=87&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=&t%5B%5D=).
+"Fixed in Release 12.1"; or use
+[this link](https://saxonica.plan.io/projects/saxon/issues?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=cf_6&op%5Bcf_6%5D=%3D&v%5Bcf_6%5D%5B%5D=90&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=&t%5B%5D=).
 
 For further details of these bugs, or for details of bugs cleared in
 earlier maintenance releases, or to register new bugs, please visit
@@ -56,6 +56,6 @@ https://saxonica.plan.io/projects/saxonmirrorhe/repository.
 (b) For convenience, a zip file is made available which contains
 preprocessed source code that can be loaded directly into an IDE. See the
 [source](source) folder; the latest version is
-[saxon12-0source.zip](source/saxon12-0source.zip).
+[saxon12-1source.zip](source/saxon12-1source.zip).
 
 
