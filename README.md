@@ -24,7 +24,7 @@ The latest production release of Saxon-HE is [11.5](11).
 
 Saxon 11 is currently considered the most stable and reliable release.
 
-The latest release of Saxon-HE is [12.1](12).
+The latest release of Saxon-HE is [12.2](12).
 
 ## Older releases
 
