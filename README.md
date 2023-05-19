@@ -26,8 +26,20 @@ Saxon 11 is currently considered the most stable and reliable release.
 
 The latest release of Saxon-HE is [12.2](12).
 
+You can download any of the current releases from the
+[releases](https://github.com/Saxonica/Saxon-HE/releases) area on this repository.
+
 ## Older releases
 
-An archive of older releases and projects of perhaps historical
+Earlier releases of Saxon-HE 10, 11, and 12 are also available from
+this repository, but aren’t packaged as releases. To download ZIP
+files from GitHub, navigate to the page for the ZIP file then choose
+the “Download raw file”
+(<img src="https://github.com/Saxonica/Saxon-HE/blob/main/img/download.png"
+      alt="The download raw file icon"
+      />)
+link on the right hand side of the page.
+
+An archive of even older releases and projects of perhaps historical
 interest is preserved in the
 [Saxon-Archive repository](https://github.com/saxonica/Saxon-Archive).
