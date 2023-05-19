@@ -33,7 +33,9 @@ You can download any of the current releases from the
 
 Earlier releases of Saxon-HE 10, 11, and 12 are also available from
 this repository, but aren’t packaged as releases. To download ZIP
-files from GitHub, navigate to the page for the ZIP file then choose
+files from GitHub, navigate to the page for the ZIP file. In some browsers,
+there’s an obvious “Download” button, on others, you have to
+choose
 the “Download raw file”
 (<img src="https://github.com/Saxonica/Saxon-HE/blob/main/img/download.png"
       alt="The download raw file icon"
