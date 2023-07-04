@@ -7,10 +7,10 @@
 
 The Saxon-HE 12 releases are available in the [Java](Java) folder.
 
-## Release notes for Saxon 12, dated 2023-05-02
+## Release notes for Saxon 12, dated 2023-07-04
 
-Saxon 12.2 is latest maintenance release on the Saxon 12 branch.
-Saxon 12.2 is released in three language versions: SaxonJ
+Saxon 12.3 is latest maintenance release on the Saxon 12 branch.
+Saxon 12.3 is released in three language versions: SaxonJ
 (Java), SaxonCS (.NET 6+), and SaxonC (C/C++, PHP, and Python). For
 SaxonJ and SaxonC, there are three editions: (EE, PE, and HE); for
 SaxonCS, only the enterprise edition (EE) is available.
@@ -29,9 +29,9 @@ installation instructions.
 Links to all download files can be found at
 https://www.saxonica.com/download/download_page.xml.
 
-For a full list of bugs cleared in Saxon 12.2, please go to
+For a full list of bugs cleared in Saxon 12.3, please go to
 https://saxonica.plan.io/projects/saxon/issues and filter the list of bugs for those labelled as
-"Fixed in Release 12.2"; or use
+"Fixed in Release 12.3"; or use
 [this link](https://saxonica.plan.io/projects/saxon/issues?utf8=%E2%9C%93&set_filter=1&sort=id%3Adesc&f%5B%5D=status_id&op%5Bstatus_id%5D=c&f%5B%5D=cf_6&op%5Bcf_6%5D=%3D&v%5Bcf_6%5D%5B%5D=91&f%5B%5D=&c%5B%5D=tracker&c%5B%5D=status&c%5B%5D=priority&c%5B%5D=subject&c%5B%5D=assigned_to&c%5B%5D=updated_on&group_by=&t%5B%5D=).
 
 For further details of these bugs, or for details of bugs cleared in
@@ -56,6 +56,6 @@ https://saxonica.plan.io/projects/saxonmirrorhe/repository.
 (b) For convenience, a zip file is made available which contains
 preprocessed source code that can be loaded directly into an IDE. See the
 [source](source) folder; the latest version is
-[saxon12-2source.zip](source/saxon12-2source.zip).
+[saxon12-3source.zip](source/saxon12-3source.zip).
 
 

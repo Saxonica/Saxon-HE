@@ -24,7 +24,7 @@ The latest production release of Saxon-HE is [11.5](11).
 
 Saxon 11 is currently considered the most stable and reliable release.
 
-The latest release of Saxon-HE is [12.2](12).
+The latest release of Saxon-HE is [12.3](12).
 
 You can download any of the current releases from the
 [releases](https://github.com/Saxonica/Saxon-HE/releases) area on this repository.
