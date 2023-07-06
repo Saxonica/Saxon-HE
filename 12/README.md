@@ -40,7 +40,7 @@ https://saxonica.plan.io/.
 
 ## Resources
 
-The file [saxon-resources-12.zip](resources/saxon-resources-12.zip)
+The file [saxon-resources-12.zip](https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-3/saxon-resources-12.zip)
 contains documentation, sample files, test drivers and other miscellaneous
 resources. It is common to all platforms, and is not normally updated when
 new maintenance releases appear.
@@ -54,8 +54,5 @@ is available in two forms.
 https://saxonica.plan.io/projects/saxonmirrorhe/repository.
 
 (b) For convenience, a zip file is made available which contains
-preprocessed source code that can be loaded directly into an IDE. See the
-[source](source) folder; the latest version is
-[saxon12-3source.zip](source/saxon12-3source.zip).
-
-
+preprocessed source code that can be loaded directly into an IDE. See
+[the release](https://github.com/Saxonica/Saxon-HE/releases/tag/SaxonHE12-3).
