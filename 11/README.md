@@ -7,7 +7,7 @@
 
 The Saxon-HE 11 releases are available in the [Java](Java) folder.
 
-## Release notes for Saxon 11, dated 2023-02-08
+## Release notes for Saxon 11, dated 2023-08-24
 
 Saxon 11.6 is the latest maintenance release on the Saxon 11 branch.
 Saxon 11.6 is released in three language versions: SaxonJ
