@@ -5,7 +5,7 @@
 
 # Saxon-HE
 
-This is the (new) home for open-source versions of the Saxon XSLT 3.0,
+This is the home for open-source versions of the Saxon XSLT 3.0,
 XQuery 3.1, and XPath 3.1 processor for Java and .NET platforms
 which has been maintained and upgraded continuously since 1999. See also
 the [Saxonica home page](https://www.saxonica.com/) and the
@@ -20,11 +20,9 @@ version 2.0.
 This repository contains all releases for the current actively maintained
 versions of Saxon-HE: [10](10), [11](11), and [12](12).
 
-The latest production release of Saxon-HE is [11.6](11).
+The latest production release of Saxon-HE is [12.4](12).
 
-Saxon 11 is currently considered the most stable and reliable release.
-
-The latest release of Saxon-HE is [12.3](12).
+Saxon 12 is currently considered the most stable and reliable release.
 
 You can download any of the current releases from the
 [releases](https://github.com/Saxonica/Saxon-HE/releases) area on this repository.
