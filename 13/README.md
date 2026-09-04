@@ -7,7 +7,7 @@
 
 The Saxon-HE 13 releases are available in the [Java](Java) folder.
 
-## Release notes for Saxon 12, dated 2026-05-29
+## Release notes for Saxon 13, dated 2026-05-29
 
 Saxon 13.0 is the first release of Saxon 13.
 Saxon 13.0 is released in three language versions: SaxonJ
