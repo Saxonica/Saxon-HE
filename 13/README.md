@@ -7,10 +7,10 @@
 
 The Saxon-HE 13 releases are available in the [Java](Java) folder.
 
-## Release notes for Saxon 12, dated 2026-05-29
+## Release notes for Saxon 13, dated 2026-10-15
 
-Saxon 13.0 is the first release of Saxon 13.
-Saxon 13.0 is released in three language versions: SaxonJ
+Saxon 13.1 is the latest maintenance release on the Saxon 13 branch.
+Saxon 13.1 is released in three language versions: SaxonJ
 (Java), SaxonCS (.NET 8+), and SaxonC (C/C++, PHP, and Python). For
 SaxonJ and SaxonC, there are three editions: (EE, PE, and HE); for
 SaxonCS, there are two editions(EE and HE).
@@ -31,7 +31,10 @@ visit https://saxonica.plan.io/.
 
 ## Resources
 
-The resources file for Saxon 13 is not yet available. It will be published in due course.
+The file [saxon-resources-13.zip](resources/saxon-resources-13.zip)
+contains documentation, sample files, test drivers and other miscellaneous
+resources. It is common to all platforms, and is not normally updated when
+new maintenance releases appear.
 
 ## Source code
 
